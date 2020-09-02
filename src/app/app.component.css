@@ -1,0 +1,9 @@
+.main-header {
+   width:700px;
+   margin: 0 auto;
+   text-align: center;
+}
+
+.movie-img{
+   border:10px solid black;
+}
